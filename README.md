@@ -1,4 +1,4 @@
-# BigDataFinalProject
+# Analysis-Between-Economy-and-Students-Studying-Abroad
 
 This is the Big Data Anlysis Final Project of Weipeng Dang and Chuan Zhan. 
 It is the analysis between National Economy and student studing abroad.
